@@ -1,11 +1,11 @@
 # general configuration
-url: http://excentris.net
+url: https://liujiajun.github.io
 baseurl: ''
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/jiajun.png"
   # author will appear under the avatar (optional)
   author: "Liu Jiajun"
   # tagline will appear under the title (optional)
