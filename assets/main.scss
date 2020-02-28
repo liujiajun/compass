@@ -1,12 +1,13 @@
 ---
 ---
 
-$text-color: #46433A;
-$anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$text-color: #000000;
+$anchor-text-color: #41675A;
+$background-color: #FEFBE8;
+// #F5F5F5;
 
 body {
-	font-family: 'Vollkorn', serif;
+	font-family: 'Open Sans', serif;
 	color: $text-color;
 	background-color: $background-color;
 }
@@ -32,6 +33,16 @@ a:active {
 
 a:hover {
 	text-decoration: underline;
+}
+
+#github-icon
+{
+	color: #000000;
+}
+
+#github-icon:hover {
+	text-decoration: none;
+	color: $anchor-text-color;
 }
 
 
