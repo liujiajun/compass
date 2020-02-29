@@ -45,6 +45,20 @@ a:hover {
 	color: $anchor-text-color;
 }
 
+#linkedin-icon
+{
+	color: #000000;
+}
+
+#linkedin-icon:hover {
+	text-decoration: none;
+	color: #0e76a8;
+}
+
+.links {
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
 
 /*** main content list ***/
 .main-list-item {
